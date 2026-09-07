@@ -6,4 +6,5 @@ greet("World")
 def add(a, b):
     return a + b
 
-print(add(1, 2))
+def subtract(a, b):
+    return a - b
